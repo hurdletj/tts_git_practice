@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "KANBAN",
+			"path": "../../KANBAN/KANBAN"
+		},
+		{
+			"name": "boostrap-practice",
+			"path": "../../boostrap-practice/boostrap-practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tts_git_practice"
+	}
+}
